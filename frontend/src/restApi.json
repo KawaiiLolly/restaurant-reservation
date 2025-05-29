@@ -1,0 +1,175 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "We use only the freshest ingredients, traditional recipes, and expert cooking to ensure every bite is packed with authentic Indian flavor and nourishing goodness." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "From rich curries to crisp street snacks, every dish is crafted to deliver bold, unforgettable taste that keeps you coming back for more." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST SERVE",
+                "description": "Delicious food shouldn’t keep you waiting. Our efficient kitchen and service team ensure your meals arrive hot, fresh, and right on time." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./aloo paratha.avif",
+                "title": "ALOO PARATHA",
+                "category": "Breakfast"
+            },
+            {
+                "id": 2,
+                "image": "./biryani.avif",
+                "title": "BIRYANI",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./paw bhaji.avif",
+                "title": "PAW BHAJI",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./rajma chawal.jpg",
+                "title": "RAJMA CHAWAL",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./chole bhature.avif",
+                "title": "CHOLE BHATURE",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./Malabar Fish Curry.avif",
+                "title": "MALABAR FISH CURRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dosa.avif",
+                "title": "DOSA",
+                "category": "Lunch"
+            },
+            {
+                "id": 8,
+                "image": "./uttapam.avif",
+                "title": "UTTAPAM",
+                "category": "Lunch"
+                
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "KABIR REDDY",
+                "designation": "South Culinary Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "DEVANSH CHAUHAN",
+                "designation": "Brekfast Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "MEENAL JOSHI",
+                "designation": "Lunch Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "AARAV MEHTA",
+                "designation": "Dinner Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "10+",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "15+",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "09",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "150+",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
